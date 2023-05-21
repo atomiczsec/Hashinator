@@ -1,6 +1,7 @@
-# Hashizor
+# Hashinator
+<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/caw.png" width="200">
 
-Hashizor is a Python script that generates hashes (MD5 and SHA256) for files within a specified folder. It creates an HTML report with the file names and their corresponding hashes, providing an organized view of the files' integrity.
+Hashinator is a Python script that generates hashes (MD5 and SHA256) for files within a specified folder. It creates an HTML report with the file names and their corresponding hashes, providing an organized view of the files' integrity.
 
 ## Features
 
@@ -22,7 +23,7 @@ Hashizor is a Python script that generates hashes (MD5 and SHA256) for files wit
 3. Install the required `pyperclip` module: `pip install pyperclip`
 4. Run the script with the following command:
 ```
-python hashizor.py -f /path/to/folder -o report.html
+python hashinator.py -f /path/to/folder -o report.html
 ```
 
 Replace `/path/to/folder` with the path to the folder containing the files you want to generate hashes for. Optionally, specify the output file name using the `-o` or `--output` argument (default is `index.html`).
