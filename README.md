@@ -1,5 +1,5 @@
 # Hashinator
-<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/caw.png" width="200">
+<img src="https://github.com/atomiczsec/Hashinator/blob/main/Assets/hash.png" width="200">
 
 Hashinator is a Python script that generates hashes (MD5 and SHA256) for files within a specified folder. It creates an HTML report with the file names and their corresponding hashes, providing an organized view of the files' integrity.
 
