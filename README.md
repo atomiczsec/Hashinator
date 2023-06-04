@@ -18,7 +18,7 @@ Hashinator is a Python script that generates hashes (MD5 and SHA256) for files w
 
 ## Usage
 
-1. Clone the repository or download the `hashizor.py` file.
+1. Clone the repository or download the `hashinator.py` file.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Install the required `pyperclip` module: `pip install pyperclip`
 4. Run the script with the following command:
@@ -33,7 +33,7 @@ Replace `/path/to/folder` with the path to the folder containing the files you w
 
 ## Customization
 
-- Modify the CSS styles in the `hashizor.py` script to change the appearance of the generated HTML report, such as fonts, colors, or table styles.
+- Modify the CSS styles in the `hashinator.py` script to change the appearance of the generated HTML report, such as fonts, colors, or table styles.
 
 ## Security Considerations
 
