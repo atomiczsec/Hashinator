@@ -39,8 +39,3 @@ Replace `/path/to/folder` with the path to the folder containing the files you w
 
 - Handle hash values securely and ensure the integrity of the script and the generated HTML report.
 - Exercise caution when sharing or storing the generated hashes, as they can be used for malicious purposes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
