@@ -1,7 +1,6 @@
 import argparse
 import hashlib
 import os
-import pyperclip
 from datetime import datetime
 from tqdm import tqdm
 import mimetypes
