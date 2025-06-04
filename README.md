@@ -32,12 +32,11 @@ Hashinator is a Python script that generates multiple hash types (MD5, SHA1, SHA
 ## Dependencies
 
 - Python 3.x
-- `pyperclip` (for clipboard operations)
 - `tqdm` (for progress bars)
 
 Install dependencies:
 ```bash
-pip install pyperclip tqdm
+pip install tqdm
 ```
 
 ## Usage
